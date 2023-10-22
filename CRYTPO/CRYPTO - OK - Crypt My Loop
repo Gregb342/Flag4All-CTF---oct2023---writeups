@@ -1,0 +1,26 @@
+Crypt My Loop
+500
+debutant
+
+Un flag a été marabouté ! Retrouvez le.
+
+
+Some magic on the flag ! Fint it.
+
+Auteur : K_lfa (BZHack / ESDAcademy)
+
+WU by Gregb342 & 4nuit :
+
+C'est une liste de caractère encodé en MD5, un algorithme de chiffrement obsolete. 
+Il y a beaucoup d'outils en ligne pour déchiffre du MD5 (comme dcode.fr par exemple),
+mais on peut automatiser tout ça avec un outil qui s'apelle John the ripper (https://github.com/openwall/john)
+
+Une fois installé sur une machine linux, on peut lancer le dechiffrage avec la commande
+
+john --format=raw-md5 flag_maraboute.txt --show
+
+ce qui donne : 
+
+iletaitunefoisunflag FLAG{md5_really_sucks}
+
+
