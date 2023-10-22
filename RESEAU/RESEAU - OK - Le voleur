@@ -1,0 +1,23 @@
+Le Voleur
+500
+debutant
+
+Je soupçonne mon colocataire de me voler des données sur le partage de la maison.
+
+Comme vu sur internet, j'ai fait une capture réseau pour en avoir le cœur net.
+
+Mais je ne sais pas l'analyser…
+
+Auteur : Croucroute (BZHack)
+
+WU by Gregb342 & 4nuit :
+
+Un fichier pcapng est un fichier de capture d'activité réseau fait avec le logiciel Wireshark. (https://www.wireshark.org/download.html)
+
+On peut donc ouvrir ce ficher avec Wireshark, et étudier ce qu'il ya dedans. Quand on regarde les echanges, on voit qu'il y a eu des echanges de fichiers via le protocole SMB.
+
+Wireshark permet de reconstituer ces fichiers et de les exporter pour qu'on puisse les consulter :
+
+Fichier > Exporter Objets > SMB >> Tout enregistrer
+
+Il y a plein de fichiers rigolos là dedans, mais celui qui nous interesse c'est %5cArt.png qui contient le flag : FLAG{USE_A_Fucking_Password!!}

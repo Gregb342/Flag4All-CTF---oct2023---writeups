@@ -5,3 +5,18 @@ facile
 En 1971, lors d'une mission, Scott à déposé un papier à ces coordonnées 25°57'56.9"N 3°34'56.4"E! Sur ce papier figure une date.
 
 Quel sont les 3 mots inscrits sous cette date ? exemple : Vive Les CTF FLAG{Vive_Les_CTF}
+
+WU by Gregb342 inspiré par mrlrnt :
+
+Il faut y aller par étape, comment souvent en OSINT.
+
+Si on cherche les coordonées directement, on va tomber en plein milieu d'un desert en Algérie,
+c'est une fausse piste.
+
+D'abord on essaie de lier les informations "1971", "mission", et "Scott".
+
+Quand on tape "1971 Scott" sur google, on tombe sur David Scott, un astronaute
+américain qui a participé à la mission Appollo 15 en 1971.
+
+
+(EN cours)

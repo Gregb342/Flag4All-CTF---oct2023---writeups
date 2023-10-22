@@ -20,3 +20,7 @@ https://osintfr.com/fr/accueil/
 https://ozint.eu
 
 https://projetfox.com/
+
+Most of the Write-ups are inspired by the fantastic work of 4nuit :
+
+https://github.com/4nuit/Writeup/tree/master/2023/Flag4all

@@ -6,4 +6,11 @@ Lors d'une enquête anti-stupéfiants que vous menez, un des suspects a publié 
 
 Trouvez le nom de ce parc. Format: FLAG{Nom du Parc}
 
-Piste : https://www.google.com/maps/place/Parc+El+Harti/@31.6317783,-8.0094607,944m/data=!3m1!1e3!4m6!3m5!1s0xdafee8cfafecb35:0x9ef1b1c65d7733d7!8m2!3d31.6301352!4d-8.0100453!16s%2Fg%2F1tlwg_j0?entry=ttu
+WU by Gregb342 :
+
+Avec une recherche inversée sur Yandex ou Google Image, on peut trouver l'information comme quoi
+la photo a été prise à Marrakech, non loin de la place du 16 novembre. 
+
+Le "Parc" recherché est en fait le Jardin 16 Novembre.
+
+FLAG{Jardin 16 Novembre}

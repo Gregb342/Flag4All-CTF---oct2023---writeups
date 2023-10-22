@@ -1,0 +1,22 @@
+OZINT.eu - La vie de Claude part 1
+443
+facile
+
+Qui sont les deux auteurs du documentaire ? (on demande les noms de famille dans l'ordre alphabétique)
+
+Format de la réponse : FLAG{dupont_durand}
+
+WU par 4nuit : 
+
+Avec les infos qu'on a, on peut faire une recherche google de ces éléments : 
+
+ile esclave documentaire 2010 perpignan
+
+le premier lien sur lequel on tombe, c'est ça
+
+https://www.film-documentaire.fr/4DACTION/w_fiche_film/41629_0
+
+On apprends que les deux auteurs du documentaire sont Thierry Ragobert et Emmanuel Roblin
+
+FLAG{Ragobert_Roblin}
+
