@@ -1,0 +1,18 @@
+Control F
+25
+debutant
+
+Il parait que le contrôle F c'est la vie Retrouvez le flag
+
+Le flag est au format FLAG{...}
+
+
+Seems CTRL+F is life. Find the flag.
+
+Flag format is FLAG{...}
+
+Auteur : K_lfa (BZHack / ESDAcademy)
+
+WU By Gregb342:
+
+En ouvrant le fichier file.txt, on a une tres longue série de caracteres aléatoires. En faisant un CTRL + F pour rechercher dans le fichier, on peut chercher "FLAG{" pour tomber sur FLAG{Ctrl+F_C_L4_v1e}

@@ -1,0 +1,7 @@
+Galois
+500
+difficile
+
+I was told not to reuse the IV, so I put a hash because it's random, right? Connection : galois.flag4all.sh port : 12345
+
+Auteur : Racoon (BZHack Friends)

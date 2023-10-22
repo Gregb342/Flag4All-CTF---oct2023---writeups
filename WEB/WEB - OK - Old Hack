@@ -1,0 +1,20 @@
+Old Hack
+254
+facile
+
+Réalisez ce hack vieux comme le monde.
+
+
+Do this trick old as time.
+
+https://oldhack.flag4all.sh
+
+Auteur : K_lfa (BZHack / ESDAcademy)
+
+WU By Gregb342 :
+
+(Voir WEB - Old Hack Img.png)
+
+Un champ défini comme attribut "password" dans le fichier html. Avec l'inspecteur d'élément (F12 sous chrome), on peut modifier l'attribut "password" en "text" pour voir le flag apparaitre :
+
+FLAG{Un_H4ck_Vieux_Comme_L3_M0nde}

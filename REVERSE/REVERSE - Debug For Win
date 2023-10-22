@@ -1,0 +1,7 @@
+Debug For Win
+500
+difficile
+
+Lors de votre Pentest dans la société Autoroot qui est spécialisé dans l'automatisation de code et de déploiement, vous pénétrez dans un serveur de CICD d'un développeur. Vous trouvez le code compilé de la pipeline de la CICD. Vous vous dite que votre client sera très content si vous récupérez le code du développeur. Vous décidez de reverse le binaire.
+
+Auteur : 0xlildoudou (BZHack / ESDAcademy - ENI Nantes - HESD04)

@@ -1,0 +1,14 @@
+DropTheBase
+500
+exotique
+
+Nous avons un gros problème avec notre application maison de conversion en base64. En effet celle-ci a été modifiée par un stagaire, et depuis les résultats sont anormaux. Nous le soupçonnons d'exfiltrer des données..
+
+Analyser ces deux fichiers :
+
+Drop_The_Base.txt : Fichier originale
+More_Base.txt : Fichier encodé
+Trouvez ce qui ne va pas et trouver le flag.. exemple : FLAG{4ce_0f_Ba55}
+
+Auteur : Penthium2 (BZHack)
+

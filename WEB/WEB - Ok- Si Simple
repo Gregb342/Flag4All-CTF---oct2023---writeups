@@ -1,0 +1,9 @@
+Si Simple
+245
+facile ▶• ılıılıılıılıılıılı. 0
+(Animation de chargement)
+
+WU By Gregb342 :
+
+ En inspectant l'element (F12 sous chrome) et en cherchant la balise liée à l'animation de chargement, on tombe sur ce commentaire de code : 
+<!-- FLAG{Tu_Peux_encore_attendre_lonnnnnnntemps} -->

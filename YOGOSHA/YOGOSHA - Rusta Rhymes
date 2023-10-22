@@ -1,0 +1,11 @@
+Rusta Rhymes
+500
+difficile
+
+We are switching the technologies we used for our product, as they say, Rust is super performant. But before we launch it publicly, we need to test it. Can you review it for us?
+
+PS: We didn't have time to do the front, we need to test this code before taking any further steps. Review it and tell us, is it secure?
+
+https://rustarhymes.flag4all.sh
+
+Format du flag : flag{xxx}
